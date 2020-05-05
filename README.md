@@ -16,4 +16,7 @@ Example deployment.....
 
 ## How to Contribute
 
-Example text ...
+### Copyright
+
+Copyright 2020
+
